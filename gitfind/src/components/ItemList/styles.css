@@ -13,3 +13,7 @@
     font-size: 18 px;
     margin-top: 16px;
 }
+
+.item-list a {
+    text-decoration: none;
+}
